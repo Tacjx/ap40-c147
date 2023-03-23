@@ -16,7 +16,6 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		
-		Persona p1= new Persona(null, null, null);
 		String[] opciones = { "1. Cargar Persona", "2. Mostrar Personas", "3. Salir" };
 		Scanner scanner = new Scanner(System.in);
 		int opcion = 1;
